@@ -1,0 +1,1 @@
+Create an application that displays an image. When the user moves the mouse pointer over the image, it should change to a second image. The second image should remain displayed as long as the mouse pointer is over it. When the user moves the mouse pointer away from the second image, it should change back to the first image.
